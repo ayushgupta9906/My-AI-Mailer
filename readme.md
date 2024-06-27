@@ -10,6 +10,7 @@ Using nodemailer to send mail using gmail but with a more secured approach using
 Clone the project
 
 ```bash
+git clone https://github.com/ayushgupta9906/My-AI-Mailer.git
 ```
 
 Go to the project directory
